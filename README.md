@@ -118,9 +118,9 @@ Lösung: Das Schwarze Meer und das Marmarameer.
 
 Lösung: Knesset.
 
-10\. Frage: Welcher Friedensvertrag wurde 1919 zwischen Deutschland und den alliierten Mächten unterzeichnet?
+10\. Frage: wann wurde israel gegründet 
 
-Lösung: Der Vertrag von Versailles.
+Lösung: 1948
 
 11\. Frage: Welche Nationalmannschaft gewann die Fußball-EM 2008?
 
@@ -154,9 +154,9 @@ Lösung: Südafrika.
 
 Lösung: Der Deutsche Bundestag.
 
-19\. Frage: Welchen Staat griff NS-Deutschland 1941 mit dem Unternehmen Barbarossa an?
+19\. Frage: Wer war der erste Ministerpräsident Israels
 
-Lösung: Die Sowjetunion.
+Lösung: David Ben-Gurion
 
 20\. Frage: Wie oft wurde die türkische Männernationalmannschaft bisher Fußball-Weltmeister?
 
