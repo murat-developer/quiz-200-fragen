@@ -98,6 +98,10 @@ Lösung: H₂O₂.
 
 Lösung: Die Bundesversammlung.
 
+\. Frage: Wer war der erste Ministerpräsident Israels
+
+Lösung: David Ben-Gurion
+
 5\. Frage: In welchem Jahr wurde Adolf Hitler zum Reichskanzler ernannt?
 
 Lösung: 1933.
@@ -153,10 +157,6 @@ Lösung: Südafrika.
 18\. Frage: Welches deutsche Verfassungsorgan wählt den Bundeskanzler?
 
 Lösung: Der Deutsche Bundestag.
-
-19\. Frage: Wer war der erste Ministerpräsident Israels
-
-Lösung: David Ben-Gurion
 
 20\. Frage: Wie oft wurde die türkische Männernationalmannschaft bisher Fußball-Weltmeister?
 
