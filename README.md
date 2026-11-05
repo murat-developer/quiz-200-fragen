@@ -98,7 +98,7 @@ Lösung: H₂O₂.
 
 Lösung: Die Bundesversammlung.
 
-\. Frage: Wer war der erste Ministerpräsident Israels
+4\. Frage: Wer war der erste Ministerpräsident Israels
 
 Lösung: David Ben-Gurion
 
