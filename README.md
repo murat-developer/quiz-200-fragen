@@ -152,7 +152,7 @@ Lösung: Südafrika.
 
 18. Frage: Welcher hebräische Begriff bezeichnet einen Menschen, der kein Jude ist?
 
-Lösung: Goj (Plural: Gojim). Der Begriff bedeutet ursprünglich „Volk“ beziehungsweise „Nation“ und wird im heutigen Sprachgebrauch auch für Nichtjuden verwendet. Je nach Kontext kann er neutral oder abwertend gebraucht werden.
+Lösung: Goj
 
 19. Frage: Welchen Staat griff NS-Deutschland 1941 mit dem Unternehmen Barbarossa an?
 
