@@ -82,84 +82,84 @@ Lösung: 1666.
 
 ## Axxe
 
-1\. Frage: In welchem Jahr wurde die Republik Türkei gegründet?
+1. Frage: In welchem Jahr wurde die Republik Türkei gegründet?
 
 Lösung: 1923.
 
-2\. Frage: Welcher türkische Verein gewann im Jahr 2000 den UEFA-Pokal?
+2. Frage: Welcher türkische Verein gewann im Jahr 2000 den UEFA-Pokal?
 
 Lösung: Galatasaray.
 
-3\. Frage: Wie lautet die chemische Formel von Wasserstoffperoxid?
+3. Frage: Wie lautet die chemische Formel von Wasserstoffperoxid?
 
 Lösung: H₂O₂.
 
-4\. Frage: Welches deutsche Verfassungsorgan wählt den Bundespräsidenten?
+4. Frage: Wer war der erste Ministerpräsident Israels und verkündete 1948 die israelische Unabhängigkeit?
 
-Lösung: Die Bundesversammlung.
+Lösung: David Ben-Gurion.
 
-4\. Frage: Wer war der erste Ministerpräsident Israels
-
-Lösung: David Ben-Gurion
-
-5\. Frage: In welchem Jahr wurde Adolf Hitler zum Reichskanzler ernannt?
+5. Frage: In welchem Jahr wurde Adolf Hitler zum Reichskanzler ernannt?
 
 Lösung: 1933.
 
-6\. Frage: Wie viel sind 12,5 % von 360?
+6. Frage: Wie viel sind 12,5 % von 360?
 
 Lösung: 45.
 
-7\. Frage: In welchem Jahr wurde Fenerbahçe gegründet?
+7. Frage: In welchem Jahr wurde Fenerbahçe gegründet?
 
 Lösung: 1907.
 
-8\. Frage: Welche beiden Meere verbindet der Bosporus?
+8. Frage: Welche beiden Meere verbindet der Bosporus?
 
 Lösung: Das Schwarze Meer und das Marmarameer.
 
-9\. Frage: Wie heißt das Parlament Israels?
+9. Frage: Wie heißt das Parlament Israels?
 
 Lösung: Knesset.
 
-10\. Frage: wann wurde israel gegründet 
+10. Frage: Welcher Friedensvertrag wurde 1919 zwischen Deutschland und den alliierten Mächten unterzeichnet?
 
-Lösung: 1948
+Lösung: Der Vertrag von Versailles.
 
-11\. Frage: Welche Nationalmannschaft gewann die Fußball-EM 2008?
+11. Frage: Welche Nationalmannschaft gewann die Fußball-EM 2008?
 
 Lösung: Spanien.
 
-12\. Frage: Welches Organ produziert das Hormon Insulin?
+12. Frage: Welches Organ produziert das Hormon Insulin?
 
 Lösung: Die Bauchspeicheldrüse.
 
-13\. Frage: In welchem Jahr wurde das osmanische Sultanat abgeschafft?
+13. Frage: In welchem Jahr wurde das osmanische Sultanat abgeschafft?
 
 Lösung: 1922.
 
-14\. Frage: Wie viel ergibt 8² − 5²?
+14. Frage: Wie viel ergibt 8² − 5²?
 
 Lösung: 39.
 
-15\. Frage: Welche berühmte Wissenschaftlerin erhielt 1903 als erste Frau einen Nobelpreis?
+15. Frage: Wie heißt der israelische Auslandsgeheimdienst?
 
-Lösung: Marie Curie.
+Lösung: Mossad.
 
-16\. Frage: Welcher türkische Fußballverein trägt den Spitznamen „Die Gelben Kanarienvögel“?
+16. Frage: Welcher türkische Fußballverein trägt den Spitznamen „Die Gelben Kanarienvögel“?
 
 Lösung: Fenerbahçe.
 
-17\. Frage: Von welchem einzigen Land wird Lesotho vollständig umschlossen?
+17. Frage: Von welchem einzigen Land wird Lesotho vollständig umschlossen?
 
 Lösung: Südafrika.
 
-18\. Frage: Welches deutsche Verfassungsorgan wählt den Bundeskanzler?
+18. Frage: Welcher hebräische Begriff bezeichnet einen Menschen, der kein Jude ist?
 
-Lösung: Der Deutsche Bundestag.
+Lösung: Goj (Plural: Gojim). Der Begriff bedeutet ursprünglich „Volk“ beziehungsweise „Nation“ und wird im heutigen Sprachgebrauch auch für Nichtjuden verwendet. Je nach Kontext kann er neutral oder abwertend gebraucht werden.
 
-20\. Frage: Wie oft wurde die türkische Männernationalmannschaft bisher Fußball-Weltmeister?
+19. Frage: Welchen Staat griff NS-Deutschland 1941 mit dem Unternehmen Barbarossa an?
 
+Lösung: Die Sowjetunion.
+
+20. Frage: Wie oft wurde die türkische Männernationalmannschaft bisher Fußball-Weltmeister?
+    
 Lösung: Noch nie. Der größte Erfolg war Platz 3 bei der WM 2002.
 
 ## Kwame
